@@ -1,0 +1,16 @@
+Create a polished, romantic, mobile-first interactive website inspired by the attached reference video. Use an enchanting midnight-purple and pink fairytale aesthetic: deep plum gradient background, glowing stars, crescent moon, pastel-pink castle with lavender roofs, warm golden windows, delicate crown motifs, sparkles, rounded panels, soft glowing pink buttons, and elegant typography (Playfair Display + Great Vibes-style script).
+
+The receiver's exact display name must be “My Love”. The sender's exact display name must be “Just Friend”. Do not invent personal names, dates, photos, memories, or relationship claims. Use warm, thoughtful, affectionate but respectful wording.
+
+Build a multi-chapter experience with:
+1. A royal invitation landing screen with a castle illustration, “For you, My Love”, sender/receiver labels, and a prominent “Open your invitation” button.
+2. An invitation / welcome letter.
+3. Four interactive reason cards that reveal their messages when tapped.
+4. A collection of gentle affirmations and keepsake-style cards.
+5. A heartfelt note signed “Just Friend”.
+6. A list of kind wishes.
+7. A final reveal with a “Read it again” button.
+
+Include chapter progress, back/next controls, clickable chapter dots, subtle transitions, responsive layout, accessible button labels, and a working replay flow. Make every interaction functional. The site must work on mobile and desktop, load quickly, and require no account, database, API key, or paid service.
+
+Deliver a complete Vercel-ready static website with index.html, style.css, and script.js, plus a README with beginner-friendly deployment steps. Do not leave placeholders or nonfunctional buttons. Keep the text consistent with “My Love” as receiver and “Just Friend” as sender.
